@@ -1,3 +1,5 @@
 Second file from local folder
 
+This is the local folder.
+
 C:\Users\...\Documents\github\test-gitbash
